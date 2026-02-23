@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Checkout_Invalid_DDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>37d1307d-ce97-4cdb-84fc-bcceddd33486</testSuiteGuid>
+   <testCaseLink>
+      <guid>25afc2b9-2278-47d6-8c11-1938cdc05af9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Regression/REG-CHK-005_Checkout_Invalid_DDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5469d659-1c5d-488d-bf62-ad5c88cd0287</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_Checkout_Invalid</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5469d659-1c5d-488d-bf62-ad5c88cd0287</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>d47c2020-5b0e-4d26-a6a0-e37c4b41e165</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5469d659-1c5d-488d-bf62-ad5c88cd0287</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>card</value>
+         <variableId>e780568a-e6a4-4d37-868e-e3a25ad329fa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5469d659-1c5d-488d-bf62-ad5c88cd0287</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expectedPattern</value>
+         <variableId>f789c622-7ff9-4d71-bed8-9a3c3226da85</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

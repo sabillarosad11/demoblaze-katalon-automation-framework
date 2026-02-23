@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-CART-004_Total_Updates</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c3399d7-823a-4301-9da5-0d9826dbd5f5</testCaseGuid>
+</TestCaseEntity>

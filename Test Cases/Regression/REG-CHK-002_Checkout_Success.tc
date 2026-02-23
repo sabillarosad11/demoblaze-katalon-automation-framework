@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-CHK-002_Checkout_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3226e975-8005-47e0-b915-aaaa2828788e</testCaseGuid>
+</TestCaseEntity>

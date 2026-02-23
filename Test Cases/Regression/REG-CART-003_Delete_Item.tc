@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-CART-003_Delete_Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83d13ee4-e70e-4b15-933b-757720258bfb</testCaseGuid>
+</TestCaseEntity>

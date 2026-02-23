@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-CHK-004_Empty_Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3895b94-f4da-4cc7-8335-1d3175bb033c</testCaseGuid>
+</TestCaseEntity>

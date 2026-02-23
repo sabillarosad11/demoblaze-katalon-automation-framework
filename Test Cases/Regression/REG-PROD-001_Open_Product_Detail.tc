@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-PROD-001_Open_Product_Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a517a44d-ead4-4e67-af29-ef71f6e0a2fa</testCaseGuid>
+</TestCaseEntity>

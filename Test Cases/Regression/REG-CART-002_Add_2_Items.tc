@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-CART-002_Add_2_Items</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>182adcc0-031a-4ee7-9c07-691c54947bbb</testCaseGuid>
+</TestCaseEntity>

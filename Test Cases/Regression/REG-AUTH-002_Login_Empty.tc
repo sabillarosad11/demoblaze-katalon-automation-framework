@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-AUTH-002_Login_Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b3d884e-aadf-458e-919f-3dfd004aa26e</testCaseGuid>
+</TestCaseEntity>

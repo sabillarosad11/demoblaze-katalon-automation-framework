@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Login_Invalid_DDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f9d2d5dc-4f1a-4271-b39f-df765c31b63c</testSuiteGuid>
+   <testCaseLink>
+      <guid>a3f5b956-546a-46ba-886f-30e298f65cd4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Regression/REG-AUTH-003_Login_Invalid</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8bedc882-d10e-4eeb-bcf6-32f917e4472c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_Login_Invalid</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8bedc882-d10e-4eeb-bcf6-32f917e4472c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>efb12c81-c84d-41df-b82b-634a83733e9c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8bedc882-d10e-4eeb-bcf6-32f917e4472c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>425011c1-a175-47b2-b4c0-ab27229bdfca</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8bedc882-d10e-4eeb-bcf6-32f917e4472c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expectedPattern</value>
+         <variableId>3faeaac2-ef63-4f21-a177-9de050e7c318</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

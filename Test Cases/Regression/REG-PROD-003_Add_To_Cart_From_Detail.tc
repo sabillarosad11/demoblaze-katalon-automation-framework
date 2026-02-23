@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-PROD-003_Add_To_Cart_From_Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88ff0f6b-0cc8-451c-af4f-182d07b8086b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-AUTH-004_Signup_Existing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67745798-1865-446a-a331-3d5c85f5835d</testCaseGuid>
+</TestCaseEntity>

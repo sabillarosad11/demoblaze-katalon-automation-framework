@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-CART-001_View_Cart_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>963961bf-8a08-4aea-ae31-6b67c4d6fda6</testCaseGuid>
+</TestCaseEntity>

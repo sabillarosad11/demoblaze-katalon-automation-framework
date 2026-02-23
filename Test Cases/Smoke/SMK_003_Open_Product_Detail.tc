@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMK_003_Open_Product_Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>666ff3a6-2dc3-42c7-812e-d51a13cfdacf</testCaseGuid>
+</TestCaseEntity>

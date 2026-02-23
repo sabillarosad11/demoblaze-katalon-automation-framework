@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REG-CHK-001_Open_PlaceOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87a24c2b-0bea-4e17-89ea-f92df2e8d3da</testCaseGuid>
+</TestCaseEntity>
