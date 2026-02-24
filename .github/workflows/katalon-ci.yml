@@ -1,0 +1,27 @@
+name: Katalon Automation CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Java
+      uses: actions/setup-java@v3
+      with:
+        distribution: 'temurin'
+        java-version: '11'
+
+    - name: Display Java Version
+      run: java -version
+
+    - name: CI Placeholder
+      run: echo "CI pipeline triggered successfully!"
