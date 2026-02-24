@@ -1,3 +1,5 @@
+[![CI](https://github.com/sabillarosad11/demoblaze-katalon-automation-framework/actions/workflows/katalon-ci.yml/badge.svg)](https://github.com/sabillarosad11/demoblaze-katalon-automation-framework/actions)
+
 # Demoblaze Katalon Automation Framework
 
 ## 📌 Overview
